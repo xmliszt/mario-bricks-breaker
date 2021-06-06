@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Mario
+  - Bottom2
+  - Bottom1
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -38,6 +42,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background-far
+    uniqueID: 2454313331
+    locked: 0
+  - name: Background-mid
+    uniqueID: 3145182469
+    locked: 0
+  - name: Background-front
+    uniqueID: 2634205381
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Pipe
+    uniqueID: 1919682603
+    locked: 0
+  - name: Player
+    uniqueID: 3346310661
+    locked: 0
+  - name: foreground
+    uniqueID: 2617341215
+    locked: 0
+  - name: UI
+    uniqueID: 1317706953
     locked: 0
