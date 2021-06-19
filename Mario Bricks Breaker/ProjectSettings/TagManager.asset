@@ -8,6 +8,10 @@ TagManager:
   - Bottom2
   - Bottom1
   - Wall
+  - Brick
+  - Coin
+  - Speed
+  - Shrink
   layers:
   - Default
   - TransparentFX
@@ -65,4 +69,7 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 1317706953
+    locked: 0
+  - name: Fire
+    uniqueID: 3429681413
     locked: 0

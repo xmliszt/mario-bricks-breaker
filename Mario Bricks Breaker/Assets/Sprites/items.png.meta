@@ -679,16 +679,16 @@ TextureImporter:
     second: items_224
   - first:
       213: 21300450
-    second: items_225
+    second: coin_0
   - first:
       213: 21300452
-    second: items_226
+    second: coin_1
   - first:
       213: 21300454
-    second: items_227
+    second: coin_2
   - first:
       213: 21300456
-    second: items_228
+    second: coin_3
   - first:
       213: 21300458
     second: items_229
@@ -700,16 +700,16 @@ TextureImporter:
     second: items_231
   - first:
       213: 21300464
-    second: items_232
+    second: highSpeed_0
   - first:
       213: 21300466
-    second: items_233
+    second: highSpeed_1
   - first:
       213: 21300468
-    second: items_234
+    second: highSpeed_2
   - first:
       213: 21300470
-    second: items_235
+    second: highSpeed_3
   - first:
       213: 21300472
     second: items_236
@@ -796,16 +796,16 @@ TextureImporter:
     second: items_263
   - first:
       213: 21300528
-    second: items_264
+    second: shrink_0
   - first:
       213: 21300530
-    second: items_265
+    second: shrink_1
   - first:
       213: 21300532
-    second: items_266
+    second: shrink_2
   - first:
       213: 21300534
-    second: items_267
+    second: shrink_3
   - first:
       213: 21300536
     second: items_268
@@ -6130,7 +6130,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_225
+      name: coin_0
       rect:
         serializedVersion: 2
         x: 432
@@ -6151,7 +6151,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_226
+      name: coin_1
       rect:
         serializedVersion: 2
         x: 448
@@ -6172,7 +6172,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_227
+      name: coin_2
       rect:
         serializedVersion: 2
         x: 464
@@ -6193,7 +6193,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_228
+      name: coin_3
       rect:
         serializedVersion: 2
         x: 480
@@ -6277,7 +6277,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_232
+      name: highSpeed_0
       rect:
         serializedVersion: 2
         x: 0
@@ -6298,7 +6298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_233
+      name: highSpeed_1
       rect:
         serializedVersion: 2
         x: 16
@@ -6319,7 +6319,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_234
+      name: highSpeed_2
       rect:
         serializedVersion: 2
         x: 32
@@ -6340,7 +6340,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_235
+      name: highSpeed_3
       rect:
         serializedVersion: 2
         x: 48
@@ -6949,7 +6949,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_264
+      name: shrink_0
       rect:
         serializedVersion: 2
         x: 0
@@ -6970,7 +6970,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_265
+      name: shrink_1
       rect:
         serializedVersion: 2
         x: 16
@@ -6991,7 +6991,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_266
+      name: shrink_2
       rect:
         serializedVersion: 2
         x: 32
@@ -7012,7 +7012,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_267
+      name: shrink_3
       rect:
         serializedVersion: 2
         x: 48
@@ -10605,7 +10605,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 08398d69ecdf1d046a93afe91bfa62d5
     internalID: 0
     vertices: []
     indices: 
