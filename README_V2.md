@@ -27,11 +27,10 @@ by Li Yuxuan 1003607
 | Game Object | Description |
 | -------- | -------- |
 | ![](https://i.imgur.com/JGbZ2wP.png)    | Player controls the panel left or right, and shoot off Mario|
-| ![](https://i.imgur.com/bEm4uRK.png)    | The central bouncing obstacle will appear once in a while to add variation to the game|
 | ![](https://i.imgur.com/suiDtVg.png) | Breakable bricks. On hit will break into debris. Purpose is to obstruct the player. |
 | ![](https://i.imgur.com/YRiBOWj.png) | Rotating coin. Purpose is to accelrate the game by increasing both player's score. |
-| ![](https://i.imgur.com/GqUxqlh.png) | High speed booster. Mario will have higher velocity when consumed this | 
-| ![](https://i.imgur.com/aOdFxXN.png) | Shrinker. Mario will shrink in size when consumed this | 
+| ![](https://i.imgur.com/GqUxqlh.png) | High speed booster. Mario will have higher velocity when consumed this |
+| ![](https://i.imgur.com/aOdFxXN.png) | Shrinker. Mario will shrink in size when consumed this |
 
 ## Features
 
@@ -71,7 +70,7 @@ Object pooling is used to pre-instantiate all consumable items (Coin, High speed
 
 ![](https://i.imgur.com/VxfNnO9.png)
 
-```csharp=
+```csharp
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
